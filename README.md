@@ -1,4 +1,4 @@
-# power-pulse-app
+# Power Pulse App
 
 O Power Pulse é um aplicativo voltado para aqueles que acreditam que um corpo são garantem uma mente sã e uma vida melhor.
 
