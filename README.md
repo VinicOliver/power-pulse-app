@@ -14,4 +14,8 @@ Esse repositório armazena o código fonte do aplicativo móvel do Power Pulse.
 
 ## Banco de dados
 
+Esquema do banco de dados da aplicação.
+
+![Database Schema](https://github.com/VinicOliver/power-pulse-app/blob/main/powerPulse.drawio.png)
+
 ## Sprints
