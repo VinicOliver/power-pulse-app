@@ -1,6 +1,6 @@
 # Power Pulse App
 
-O Power Pulse é um aplicativo voltado para aqueles que acreditam que um corpo são garantem uma mente sã e uma vida melhor.
+O Power Pulse é um aplicativo voltado para aqueles que acreditam que um corpo são garante uma mente sã e uma vida melhor.
 
 Criado para auxiliar a rotina de treinamentos e ver o seu progresso a cada treino realizado, o Power Pulse te permite criar quantas rotinas de treinos você desejar, em diversas modalidades de atividades físicas, como musculação, calistenia ou crossfit. Além disso, te permite registrar todos os seus treinos sem necessidade de conexão com internet, não deixando você perder o seu progresso pelo caminho por estar offline.
 
@@ -30,4 +30,4 @@ Esquema do banco de dados da aplicação.
 - [ ] Realizar a autenticação do usuário no aplicativo. Estimativa de 1 semana;
 - [ ] Aplicar validação de dados de entrada em dados informados pelo usuário. Estimativa de 1 a 2 semanas;
 - [ ] Empacotamento do aplicativo para publicação. Estimativa de 1 semana;
-- [ ] Validação da sprint. A cada sprint finalizada será realizada uma sprint rápida para validar o que foi feito, em busca de bugs ou erros de fluxo ou lógica, isso proporcionará corrigir possíveis problemas e realizar correções o quanto antes. Estimativa de 2 a 3 dias por sprint.
+- [ ] Validação da sprint. A cada sprint finalizada será realizada uma sprint rápida para validar o que foi feito, em busca de bugs ou erros de fluxo ou lógica, isso proporcionará identificar possíveis problemas e realizar correções o quanto antes. Estimativa de 2 a 3 dias por sprint.
