@@ -10,9 +10,26 @@ Esse repositório armazena o código fonte do aplicativo móvel do Power Pulse.
 
 - Expo
 
+## Setup
+
+```bash
+# Clone o repositório
+git clone https://github.com/VinicOliver/power-pulse-app.git
+cd power-pulse-app
+
+# Instalar versões com asdf
+asdf install
+
+# Instalar dependências
+yarn install
+
+# Executar o app
+yarn start
+```
+
 ## Protótipos
 
-Você pode acessar o protótipo do Power Pulse utilizando o link abaixo.
+Você pode acessar o protótipo do Power Pulse utilizando o link abaixo. O banco de dados utilizado será o SQLite.
 
 [Power Pulse App - Protótipo](https://www.figma.com/design/iE80ZM8Lmq5Mmq2QOintlk/PowerPulse-App?node-id=0-1&node-type=canvas&t=n5Z0RdDikQJK6E9I-0)
 
