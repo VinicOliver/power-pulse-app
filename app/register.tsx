@@ -1,14 +1,9 @@
-import { Link } from "expo-router";
 import { StyleSheet, Text, View } from "react-native";
 
-export default function Login() {
+export default function Register() {
   return(
     <View style={styles.container}>
-      <Text>Hello World from Login!</Text>
-
-      <Link href="/register">
-        <Text>Criar conta</Text>
-      </Link>
+      <Text>Hello World from Register!</Text>
     </View>
   )
 }

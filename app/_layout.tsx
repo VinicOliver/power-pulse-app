@@ -1,10 +1,10 @@
 import { Stack } from "expo-router";
-import { StyleSheet } from "react-native";
 
-export default function Home() {
+export default function _layout() {
   return(
     <Stack>
-      <Stack.Screen name="login" options={{ headerShown: false }} />
+      <Stack.Screen name="index" options={{ headerShown: false }} />
+      <Stack.Screen name="register" options={{ title:"Criar Conta" }} />
     </Stack>
   )
 }
